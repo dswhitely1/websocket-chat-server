@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/dswhitely1/websocket-chat-server/issues"
   },
-  "homepage": "https://github.com/dswhitely1/websocket-chat-server#readme"
+  "homepage": "https://github.com/dswhitely1/websocket-chat-server#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
